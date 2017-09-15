@@ -1,0 +1,12 @@
+#file {
+  display: none
+}
+
+body {
+  padding: 20px;
+}
+
+#file-upload-input {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
